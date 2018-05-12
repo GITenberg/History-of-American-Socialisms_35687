@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37836
     wikipedia: http://en.wikipedia.org/wiki/John_Humphrey_Noyes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35687#History-of-American-Socialisms
 gutenberg_issued: '2011-03-26'
 gutenberg_type: Text
 identifiers:
